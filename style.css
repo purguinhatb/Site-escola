@@ -4,9 +4,11 @@ color: white;
 display:flex;
 justify-content: space-around;
 }
+
 .cabecalho-imagem{
     width: 20%;
 }
+
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
@@ -21,4 +23,16 @@ justify-content: space-around;
 .escola {
     background-image: linear-gradient(#383D58,#D7265B);
     color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
     }
+
+.escola-div-conteudo{
+        width: 35%;
+    }
+
+.escola-titulo {
+        padding: 24px 0;
+        }
